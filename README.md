@@ -6,6 +6,7 @@
 ### Project Links
 - [Design Lab Project Document](https://docs.google.com/document/d/1bUmlnPyoKfuO9hjDPckG2S039QHG57ThhmW-yHWZH6w/edit?usp=sharing)
 - [Project Presentation](https://canva.link/f5lz1f2evxg5q0x)
+- [Video Demonstration](https://youtu.be/htPy55q9lWw)
 
 The following are an outline using snippets from our presentation for my Design Lab project
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/29b589ad-5715-459e-80bc-0e72c07c5a96" />
