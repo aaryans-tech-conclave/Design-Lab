@@ -1,4 +1,4 @@
-## Desgin Lab | Hybrid Mesh-Relay Architecture for Fault-Tolerant Communication using ESP8266 SoftAP
+## Design Lab | Hybrid Mesh-Relay Architecture for Fault-Tolerant Communication using ESP8266 SoftAP
 - Designed a fault-tolerant ESP8266 / ESP-12E SoftAP node-based communication system hosting a local webpage to enable localized client-to-client messaging.
 - Implemented queue message caching on the ESP node, allowing recent messages to remain locally available even during bridge/server downtime.
 - Built a bridge-relay architecture using a laptop/mobile hotspot to sync ESP messages to an archive/database and relay them to unaffected internet-connected hosts.
